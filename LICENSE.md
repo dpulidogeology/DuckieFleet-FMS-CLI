@@ -5,7 +5,7 @@ Copyright (c) 2025 David Pulido
 
 This repository is a **public portfolio showcase** created by David Pulido to demonstrate the features, architecture, and capabilities of the Fleet Management System (FMS) CLI tool.
 
-The FMS-CLI tool was developed by David Pulido during his employment (Werkstudent) at the Institute of Robotics and Autonomous Systems (IRAS).
+The FMS-CLI tool was developed by David Pulido during his employment  at the Institute of Robotics and Autonomous Systems (IRAS).
 
 **The underlying source code is the proprietary intellectual property of the Institute of Robotics and Autonomous Systems (IRAS) and is not distributed here.**
 
